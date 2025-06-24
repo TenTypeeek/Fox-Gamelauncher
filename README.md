@@ -4,7 +4,7 @@ A simple game launcher that detects your installed Steam and Epic Games and lets
 
 ## 💾 Download
 
-[Latest Release](https://github.com/TenTypeeek/Fox-Gamelauncher/releases/tag/release)
+[Latest Release](https://github.com/TenTypeeek/Fox-Gamelauncher/releases/tag/pre-release)
 
 ## ✨ Key Features
 
